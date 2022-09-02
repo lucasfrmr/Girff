@@ -1,0 +1,8 @@
+        // Temp install to manifest file.
+        // about:debugging
+        // the following function works for this item.
+        // https://www.amazon.com/AmazonBasics-29-Piece-Precision-Hobby-Knife/dp/B07V83Q9W8/?_encoding=UTF8&pd_rd_w=amxEg&content-id=amzn1.sym.c5629238-4d62-4661-a21b-2fc45188eeea&pf_rd_p=c5629238-4d62-4661-a21b-2fc45188eeea&pf_rd_r=C4S9G48GDJAC8B8ZTX06&pd_rd_wg=9LphM&pd_rd_r=1cb9f40a-b114-460c-8d09-1c41ece458d7&ref_=pd_gw_pop_in_ab
+
+let pd = document.getElementsByClassName("prodDetAttrValue");
+pd[3].style['background-color'] = '#eb4034';
+console.log(pd);
